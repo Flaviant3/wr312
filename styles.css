@@ -370,6 +370,7 @@
     top: 0;
     left: 0;
     object-fit: cover;
+    border-radius: 50%;
   }
   
   .exercice .group-3 {
@@ -408,6 +409,7 @@
     height: 492px;
     top: 0;
     left: 573px;
+    border-radius: 50%;
   }
   
   .exercice .frame-12 {
