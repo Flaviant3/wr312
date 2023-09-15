@@ -1,3 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 .exercice {
     background-color: #ffffff;
     display: flex;
@@ -20,13 +26,13 @@
     height: 688px;
     top: 0;
     left: 0;
-    background-image: url(./img/rectangle-13.png);
+    background-image: url(images/heolien.png);
     background-size: 100% 100%;
   }
   
   .exercice .text-wrapper {
     position: absolute;
-    width: 586px;
+    width: 689px;
     top: 90px;
     left: 150px;
     font-family: "Playfair Display-ExtraBold", Helvetica;
@@ -253,7 +259,7 @@
     height: 604px;
     top: 134px;
     left: 150px;
-    background-image: url(./img/rectangle-12.png);
+    background-image: url(images/video.jpg);
     background-size: 100% 100%;
   }
   
