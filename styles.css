@@ -371,9 +371,33 @@
   border-radius: 50%;
 }
 .exercice .frame-12 {
-  position: absolute;
   width: 28px;
   height: 28px;
   top: 688px;
-  left: 706px;
+  left: 1410px;
+}
+.group-3 img:hover {
+  transform: scale(1.1); /* Augmente l'échelle de 10% au survol */
+  transition: transform 0.3s ease; /* Ajoute une transition fluide */
+}
+.group-2 img:hover {
+  transform: scale(1.1); /* Augmente l'échelle de 10% au survol */
+  transition: transform 0.3s ease; /* Ajoute une transition fluide */
+}
+
+.img:hover {
+  transform: rotate(360deg); /* Fait tourner l'image de 360 degrés au survol */
+  transition: transform 1s linear; /* Ajoute une transition linéaire */
+}
+
+.frame-6:hover {
+  transform: rotate(360deg); /* Fait tourner l'image de 360 degrés au survol */
+  transition: transform 1s linear; /* Ajoute une transition linéaire */
+}
+
+.ico-scroll {
+  position: fixed;
+  right: 20px; /* Ajustez la valeur selon votre préférence */
+  bottom: 20px; /* Ajustez la valeur selon votre préférence */
+  cursor: pointer;
 }

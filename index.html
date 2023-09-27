@@ -96,9 +96,27 @@
             <img class="rectangle-2" src="images/about-2.jpg" alt="about-2" />
           </div>
         </div>
-        <img class="frame-12" src="images/ico-scroll.svg" alt="ico-scroll" />
+        <img
+          class="frame-12 ico-scroll"
+          src="images/ico-scroll.svg"
+          alt="ico-scroll"
+        />
       </div>
     </div>
+    <script>
+      const scrollToTop = () => {
+        window.scrollTo({
+          top: 0,
+          behavior: "smooth", // Ajoute une animation de défilement fluide
+        });
+      };
+
+      // Sélectionnez l'élément image ico-scroll
+      const icoScroll = document.querySelector(".ico-scroll");
+
+      // Ajoutez un gestionnaire d'événements pour le clic sur l'image
+      icoScroll.addEventListener("click", scrollToTop);
+    </script>
   </body>
 </html>
 <!-- flaviant3 -->
