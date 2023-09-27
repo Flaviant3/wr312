@@ -3,7 +3,6 @@
   padding: 0;
   box-sizing: border-box;
 }
-
 .exercice {
   background-color: #ffffff;
   display: flex;
@@ -11,7 +10,6 @@
   justify-content: center;
   width: 100%;
 }
-
 .exercice .div {
   background-color: #ffffff;
   overflow: hidden;
@@ -19,7 +17,6 @@
   height: 3482px;
   position: relative;
 }
-
 .exercice .overlap {
   position: absolute;
   width: 1440px;
@@ -29,7 +26,6 @@
   background-image: url(images/heolien.png);
   background-size: 100% 100%;
 }
-
 .exercice .text-wrapper {
   position: absolute;
   width: 689px;
@@ -42,7 +38,6 @@
   letter-spacing: 0;
   line-height: 88px;
 }
-
 .exercice .frame {
   display: flex;
   width: 164px;
@@ -55,7 +50,6 @@
   left: 150px;
   background-color: #ffffff;
 }
-
 .exercice .send {
   position: relative;
   width: fit-content;
@@ -67,7 +61,6 @@
   letter-spacing: 0;
   line-height: normal;
 }
-
 .exercice .overlap-group {
   position: absolute;
   width: 1442px;
@@ -75,7 +68,6 @@
   top: 2141px;
   left: 0;
 }
-
 .exercice .group {
   position: absolute;
   width: 1442px;
@@ -83,14 +75,12 @@
   top: 0;
   left: 0;
 }
-
 .exercice .overlap-group-2 {
   position: relative;
   width: 1440px;
   height: 492px;
   background-color: #18302b;
 }
-
 .exercice .industries {
   position: absolute;
   top: 80px;
@@ -104,7 +94,6 @@
   line-height: 48px;
   white-space: nowrap;
 }
-
 .exercice .frame-2 {
   display: inline-flex;
   align-items: flex-start;
@@ -113,7 +102,6 @@
   top: 216px;
   left: 280px;
 }
-
 .exercice .frame-3 {
   display: inline-flex;
   flex-direction: column;
@@ -122,7 +110,6 @@
   position: relative;
   flex: 0 0 auto;
 }
-
 .exercice .frame-wrapper {
   position: relative;
   width: 108px;
@@ -131,7 +118,6 @@
   border-radius: 54px;
   box-shadow: 4px 15px 26px #af97581f;
 }
-
 .exercice .frame-4 {
   position: relative;
   width: 52px;
@@ -140,7 +126,6 @@
   left: 28px;
   overflow: hidden;
 }
-
 .exercice .vector {
   position: absolute;
   width: 52px;
@@ -148,7 +133,6 @@
   top: 1072px;
   left: 2057px;
 }
-
 .exercice .img {
   position: absolute;
   width: 33px;
@@ -156,7 +140,6 @@
   top: 5px;
   left: 9px;
 }
-
 .exercice .text-wrapper-2 {
   position: relative;
   width: fit-content;
@@ -167,7 +150,6 @@
   letter-spacing: 0;
   line-height: normal;
 }
-
 .exercice .frame-5 {
   display: flex;
   flex-direction: column;
@@ -176,7 +158,6 @@
   gap: 42px;
   position: relative;
 }
-
 .exercice .frame-6 {
   position: absolute;
   width: 52px;
@@ -184,7 +165,6 @@
   top: 28px;
   left: 28px;
 }
-
 .exercice .text-wrapper-3 {
   position: relative;
   width: fit-content;
@@ -197,7 +177,6 @@
   letter-spacing: 0;
   line-height: normal;
 }
-
 .exercice .frame-7 {
   display: flex;
   flex-direction: column;
@@ -206,7 +185,6 @@
   gap: 42px;
   position: relative;
 }
-
 .exercice .img-wrapper {
   position: relative;
   width: 108px;
@@ -217,7 +195,6 @@
   border-radius: 54px;
   box-shadow: 4px 15px 26px #af97581f;
 }
-
 .exercice .text-wrapper-4 {
   position: relative;
   width: fit-content;
@@ -230,7 +207,6 @@
   letter-spacing: 0;
   line-height: normal;
 }
-
 .exercice .text-wrapper-5 {
   position: relative;
   width: 232px;
@@ -244,7 +220,6 @@
   letter-spacing: 0;
   line-height: 28px;
 }
-
 .exercice .group-wrapper {
   position: absolute;
   width: 1440px;
@@ -252,7 +227,6 @@
   top: 488px;
   left: 0;
 }
-
 .exercice .div-wrapper {
   position: relative;
   width: 1140px;
@@ -262,7 +236,6 @@
   background-image: url(images/video.jpg);
   background-size: 100% 100%;
 }
-
 .exercice .frame-8 {
   display: inline-flex;
   align-items: center;
@@ -271,7 +244,6 @@
   top: 514px;
   left: 44px;
 }
-
 .exercice .polygon-wrapper {
   position: relative;
   width: 46px;
@@ -279,7 +251,6 @@
   background-color: #ffffff36;
   border-radius: 23px;
 }
-
 .exercice .polygon {
   position: absolute;
   width: 18px;
@@ -287,7 +258,6 @@
   top: 13px;
   left: 17px;
 }
-
 .exercice .text-wrapper-6 {
   position: relative;
   width: fit-content;
@@ -298,7 +268,6 @@
   letter-spacing: 0;
   line-height: normal;
 }
-
 .exercice .frame-9 {
   position: absolute;
   width: 1440px;
@@ -307,7 +276,6 @@
   left: 0;
   overflow: hidden;
 }
-
 .exercice .about {
   position: absolute;
   top: -1px;
@@ -321,7 +289,6 @@
   line-height: 48px;
   white-space: nowrap;
 }
-
 .exercice .group-2 {
   position: absolute;
   width: 1075px;
@@ -329,7 +296,6 @@
   top: 108px;
   left: 150px;
 }
-
 .exercice .frame-10 {
   display: inline-flex;
   flex-direction: column;
@@ -339,7 +305,6 @@
   top: 75px;
   left: 607px;
 }
-
 .exercice .text-wrapper-7 {
   position: relative;
   width: 468px;
@@ -351,7 +316,6 @@
   letter-spacing: 0;
   line-height: 44px;
 }
-
 .exercice .p {
   position: relative;
   width: 465px;
@@ -362,7 +326,6 @@
   letter-spacing: 0;
   line-height: 29px;
 }
-
 .exercice .rectangle {
   position: absolute;
   width: 499px;
@@ -372,7 +335,6 @@
   object-fit: cover;
   border-radius: 50%;
 }
-
 .exercice .group-3 {
   position: absolute;
   width: 1072px;
@@ -380,7 +342,6 @@
   top: 700px;
   left: 218px;
 }
-
 .exercice .frame-11 {
   display: inline-flex;
   flex-direction: column;
@@ -390,7 +351,6 @@
   top: 84px;
   left: 0;
 }
-
 .exercice .text-wrapper-8 {
   position: relative;
   width: 452px;
@@ -402,7 +362,6 @@
   letter-spacing: 0;
   line-height: 44px;
 }
-
 .exercice .rectangle-2 {
   position: absolute;
   width: 499px;
@@ -411,7 +370,6 @@
   left: 573px;
   border-radius: 50%;
 }
-
 .exercice .frame-12 {
   position: absolute;
   width: 28px;
